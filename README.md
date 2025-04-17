@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christian Llontop
 
-**Software Architect**, **Open Source Enthusiast**, and **CEO at Rhinolabs Agency** — a UX/UI and full-stack development studio. I design scalable systems, build developer-first tools, and lead high-impact technical teams across web and cloud platforms.
+**Software Architect**, **Open Source Enthusiast**, and **CEO at Rhinolabs Agency** — a UX/UI and full-stack development agency. I design scalable systems, build developer-first tools, and lead high-impact technical teams across web and cloud platforms.
 
 ## 🚀 Current Projects
 
